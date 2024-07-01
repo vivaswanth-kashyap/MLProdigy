@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Environment variables file
+.env
+
+# PyCharm specific files
+.idea/
+
+# Logs and cache files
+*.log
+*.cache
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# macOS specific files
+.DS_Store
